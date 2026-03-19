@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bus",
+    "name": "Comum (Ônibus)",
+    "value": 5.30,
+    "highlight": false
+  },
+  {
+    "id": "train",
+    "name": "Trilhos (Metrô/Trem)",
+    "value": 5.40,
+    "highlight": false
+  },
+  {
+    "id": "integration",
+    "name": "Integração (Ônibus + Trilhos)",
+    "value": 9.38,
+    "highlight": true
+  }
+]
