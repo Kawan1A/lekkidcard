@@ -306,12 +306,12 @@ const Features = () => {
 
 const Partners = () => {
   const partners = [
-    { name: "SPTrans", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logo_SPTrans.svg/1200px-Logo_SPTrans.svg.png" },
-    { name: "Metrô SP", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Metr%C3%B4_S%C3%A3o_Paulo_logo.svg/1200px-Metr%C3%B4_S%C3%A3o_Paulo_logo.svg.png" },
-    { name: "CPTM", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPTM_logo.svg/1200px-CPTM_logo.svg.png" },
-    { name: "EMTU", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Logo_EMTU.svg/1200px-Logo_EMTU.svg.png" },
-    { name: "VLT Carioca", logo: "https://vltcarioca.com.br/wp-content/uploads/2016/05/logo-vlt-carioca.png" },
-    { name: "Bike Sampa", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bike_Sampa_logo.svg/1200px-Bike_Sampa_logo.svg.png" },
+    { name: "SPTrans", logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/SPTrans-logo-cinza.png" },
+    { name: "Metrô SP", logo: "https://upload.wikimedia.org/wikipedia/commons/b/b3/S%C3%A3o_Paulo_Metro_logo.png" },
+    { name: "CPTM", logo: "https://upload.wikimedia.org/wikipedia/commons/9/93/Cptm_icon.svg" },
+    { name: "EMTU", logo: "https://pt.wikipedia.org/wiki/Ficheiro:EMTU_-_Symbol_logo.png" },
+    { name: "VLT Carioca", logo: "https://logos.fandom.com/wiki/File:VLTCarioca_mg.png" },
+    { name: "Bike Sampa", logo: "https://e7.pngegg.com/pngimages/948/563/png-clipart-bicycle-chain-cycling-bicycle-chain-s-text-bicycle.png" },
     { name: "CCR Barcas", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a1/Logo_CCR_Barcas.png/1200px-Logo_CCR_Barcas.png" },
     { name: "SuperVia", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Logo_SuperVia.svg/1200px-Logo_SuperVia.svg.png" },
     { name: "Trensurb", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logo_Trensurb.svg/1200px-Logo_Trensurb.svg.png" },
