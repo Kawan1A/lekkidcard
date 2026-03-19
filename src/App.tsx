@@ -315,9 +315,9 @@ const Partners = () => {
     { name: "CCR Barcas", logo: "https://pelotas13horas.com.br/wp-content/uploads/2021/04/1200px-Grupo_CCR.svg_-696x696.png" },
     { name: "SuperVia", logo: "https://e7.pngegg.com/pngimages/446/719/png-clipart-train-deodoro-station-supervia-business-ccr-s-a-train-blue-angle.png" },
     { name: "Trensurb", logo: "https://www.aeamesp.org.br/boletim/wp-content/uploads/sites/4/2017/07/LOGO-TRENSURB-150x150.png" },
-    { name: "Metrofor", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logo_Metrofor.png/1200px-Logo_Metrofor.png" },
-    { name: "URBS", logo: "https://www.urbs.curitiba.pr.gov.br/img/logo_urbs.png" },
-    { name: "BHTrans", logo: "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Logo_BHTrans.svg/1200px-Logo_BHTrans.svg.png" }
+    { name: "Metrofor", logo: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_Metrofor_2.png" },
+    { name: "URBS", logo: "https://www.fratar.com.br/wp-content/uploads/2015/09/URBS-Logo.png" },
+    { name: "BHTrans", logo: "https://upload.wikimedia.org/wikipedia/pt/1/14/BHTrans-logo_%281%29.jpg" }
   ];
 
   return (
