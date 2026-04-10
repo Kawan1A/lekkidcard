@@ -158,7 +158,7 @@ const Hero = ({ onOpenRequest, onOpenTariffs }: { onOpenRequest: () => void, onO
             <span className="text-brazil-green">um só toque.</span>
           </h1>
           <p className="text-lg text-slate-600 mb-8 max-w-lg leading-relaxed">
-            O LYKKECARD une ônibus, metrô, trens e muito mais. Um design inspirado nas ondas e na natureza brasileira para facilitar seu dia a dia.
+            O KYPEYCARD une ônibus, metrô, trens e muito mais. Um design inspirado nas ondas e na natureza brasileira para facilitar seu dia a dia.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <button 
@@ -280,7 +280,7 @@ const Features = () => {
     <section id="features" className="py-24 bg-slate-50">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-sm font-bold text-brazil-green uppercase tracking-widest mb-4">Por que escolher o LYKKECARD?</h2>
+          <h2 className="text-sm font-bold text-brazil-green uppercase tracking-widest mb-4">Por que escolher o KYPEYCARD?</h2>
           <p className="text-4xl font-display font-extrabold text-brazil-blue">A revolução no seu bolso</p>
         </div>
 
@@ -424,13 +424,13 @@ const Footer = () => {
           <div className="space-y-4 text-slate-400 text-sm">
             <p className="flex items-center gap-2"><Smartphone className="w-4 h-4" /> 0800 123 4567</p>
             <p className="flex items-center gap-2"><Smartphone className="w-4 h-4" /> (11) 98765-4321 (WhatsApp)</p>
-            <p className="flex items-center gap-2"><ExternalLink className="w-4 h-4" /> www.lykkecard.com.br</p>
+            <p className="flex items-center gap-2"><ExternalLink className="w-4 h-4" /> www.kypeycard.com.br</p>
           </div>
         </div>
       </div>
       
       <div className="max-w-7xl mx-auto mt-20 pt-8 border-t border-slate-800 text-center text-slate-500 text-xs">
-        <p>© 2026 LYKKECARD Mobilidade S.A. Todos os direitos reservados. Uso pessoal e intransferível.</p>
+        <p>© 2026 KYPEYCARD Mobilidade S.A. Todos os direitos reservados. Uso pessoal e intransferível.</p>
       </div>
     </footer>
   );
